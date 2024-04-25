@@ -1,14 +1,2 @@
-h2{
-    color: aqua;
-}
-
-.menu{
-    display: inline-block; /* deixa lado a lado */
-    padding: 10px 20px; /*  */
-    background-color: rgb(107, 177, 251);
-    border-radius: 16px;
-    cursor: pointer;
-}
-.menu:houver{
-    background-color:royalblue;
-}
+a{text-decoration:none;}
+.menu {text-decoration:none;}
